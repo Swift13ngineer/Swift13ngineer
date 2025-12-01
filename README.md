@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Mechanical engineer trying to learn some frontend development!
+Currently dabbling with HTML, CSS, Javascript.
+Fluent in coffee and pastries 🥐
